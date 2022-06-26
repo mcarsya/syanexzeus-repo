@@ -4,7 +4,7 @@
 
 ![Youtube Channel Portofolio](https://img.shields.io/youtube/channel/subscribers/UCDeCkyLwwOsXnvqOPf3wVsg?logo=youtube&logoColor=red&style=for-the-badge)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer and Teacher!!
 
 - 🔭 Check out my Code course: 
 - 🌱 I’m currently learning everything 
