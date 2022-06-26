@@ -1,8 +1,8 @@
 #Hi there, I'm Mahfuzh Arsya - aka [Syanexact][Youtube]👋
 
-[![Youtube Channel Owner](https://img.shields.io/youtube/channel/subscribers/UCAFlRG68gx5iEelmJ2TSAmw?logo=youtube&logoColor=red&style=for-the-badge)]
+![Youtube Channel Owner](https://img.shields.io/youtube/channel/subscribers/UCAFlRG68gx5iEelmJ2TSAmw?logo=youtube&logoColor=red&style=for-the-badge)
 
-[![Youtube Channel Portofolio](https://img.shields.io/youtube/channel/subscribers/UCDeCkyLwwOsXnvqOPf3wVsg?logo=youtube&logoColor=red&style=for-the-badge)]
+![Youtube Channel Portofolio](https://img.shields.io/youtube/channel/subscribers/UCDeCkyLwwOsXnvqOPf3wVsg?logo=youtube&logoColor=red&style=for-the-badge)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
