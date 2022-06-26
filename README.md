@@ -1,8 +1,8 @@
 #Hi there, I'm Mahfuzh Arsya - aka [Syanexact][Youtube]👋
 
-[![Youtube Channel Owner](https://img.shields.io/youtube/channel/subscribers/UCAFlRG68gx5iEelmJ2TSAmw?logo=youtube&logoColor=red&style=for-the-badge)[youtube]]
+[![Youtube Channel Owner](https://img.shields.io/youtube/channel/subscribers/UCAFlRG68gx5iEelmJ2TSAmw?logo=youtube&logoColor=red&style=for-the-badge)]
 
-[![Youtube Channel Portofolio](https://img.shields.io/youtube/channel/subscribers/UCDeCkyLwwOsXnvqOPf3wVsg?logo=youtube&logoColor=red&style=for-the-badge)[youtube]]
+[![Youtube Channel Portofolio](https://img.shields.io/youtube/channel/subscribers/UCDeCkyLwwOsXnvqOPf3wVsg?logo=youtube&logoColor=red&style=for-the-badge)]
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -31,11 +31,11 @@
 
 ### Language and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
